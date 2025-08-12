@@ -1,17 +1,3 @@
-Here’s a heartfelt apology website code that addresses the misunderstanding about your ex and reassures Hamza of your love. This makes it clear that your past is just that—*past*—and he is your present and future.  
-
----
-
-### **Steps to Create the Website**  
-1. **Create a new GitHub repo** named `username.github.io` (replace `username` with your GitHub username).  
-2. **Add this `index.html` file** (copy the code below).  
-3. **Enable GitHub Pages** in the repo settings (under "Pages").  
-
----
-
-### **HTML Code for Your Apology Website**  
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -143,24 +129,3 @@ Here’s a heartfelt apology website code that addresses the misunderstanding ab
     </script>
 </body>
 </html>
-```
-
----
-
-### **What This Website Does**  
-1. **A Clear Apology** – Acknowledges the hurt caused by talking about your ex.  
-2. **Reassurance** – Makes it clear your past is irrelevant compared to your love for Hamza.  
-3. **Interactive Love Note** – When clicked, it reveals a sweet promise + floating hearts.  
-4. **Romantic Design** – Soft colors, heartbeat animations, and a heartfelt message.  
-
----
-
-### **How to Deploy**  
-1. Go to [GitHub](https://github.com) and create a new repository named `username.github.io` (replace `username` with yours).  
-2. Upload this HTML file as `index.html`.  
-3. Go to **Settings > Pages** and enable GitHub Pages.  
-4. Share the link with Hamza! (It’ll be `https://username.github.io`)  
-
-This way, he’ll see how much effort you put into making things right. ❤️  
-
-Would you like me to adjust the wording or design further?
